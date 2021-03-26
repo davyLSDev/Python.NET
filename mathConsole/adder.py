@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python
 
 # Now, that we know the importing of the .NET dll works, try out a real application
 
